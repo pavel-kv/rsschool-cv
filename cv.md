@@ -25,7 +25,6 @@ Thirst for new knowledge, perseverance and passion are the qualities that allow 
 * IDE: Visual Studio Code
 * Databases: basic understanding of SQL, Firebase
 * Graphics editors: Adobe Photoshop
-* English level: B1 (freely read technical documentation)
 
 
 ## Code example
@@ -55,5 +54,7 @@ function XO(str) {
     * Specialization: Automation of technological processes and production
     * Degree: Bachelor of Engineering
 
-##
+## Languages
+* English: Level B1 (freely read technical documentation)
+* Russian: Native
 

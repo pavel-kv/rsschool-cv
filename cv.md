@@ -33,7 +33,27 @@ __Exes and Ohs from CODEWARS:__ Check to see if a string has the same amount of 
 
 ```javascript
 function XO(str) {
-  let result = str.toLowerCase().split('').reduce((sum, item) => item == 'x' ? ++sum : item == 'o' ? --sum : sum, 0);
+  let result = str.toLowerCase().split('').reduce((sum, item) => item === 'x' ? ++sum : item === 'o' ? --sum : sum, 0);
   return !result ? true : false;
 }
 ```
+## Education
+* __Educational Center for Programming and High Tech (IT-Academy)__
+    * _Course:_ Web application development with JavaScript
+    * _Certificate:_ [Md-FD2-124-22-8](https://drive.google.com/file/d/1UNS_4okVh0TfuzXhjkCLrRqSwN7Qac9y/view?usp=share_link)
+    * _Studying:_ JavaScript syntax, work with arrays, objects, functions, closures, OOP, work with DOM, event handling, Event Loop, animation, multimedia, JSON, AJAX, promises, modules, RegExp, MVC, Single Page Application, Git, Webpack.
+    * _Acquired skills:_ create interactive web pages using JavaScript and efficiently work with web pages, handle events and work with the mouse and touchscreen, work with multimedia - SVG and Canvas, use JSON and AJAX.
+
+* __Educational Center for Programming and High Tech (IT-Academy)__
+    * _Course:_ Website development with HTML, CSS and JavaScript
+    * _Certificate:_ [Md-FD1-192-22-8](https://drive.google.com/file/d/1LwYTqsOtYpKawRk06alhEvdEyVxDpvy5/view?usp=share_link)
+    * _Studying:_ syntax and semantics of HTML markup language tags, Flexbox, Grid Layout, animation, CSS, DOM, JavaScript.
+    * _Acquired skills:_ creating web forms, manage interaction with form, images and links, responsive web design, Flexbox content management, building grids on Grid Layout, create animations and smooth transitions, add layout with JavaScript.
+
+* __Belarusian National Technical University__
+    * Faculty of Information Technology and Robotics
+    * Specialization: Automation of technological processes and production
+    * Degree: Bachelor of Engineering
+
+##
+

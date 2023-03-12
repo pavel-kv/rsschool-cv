@@ -36,6 +36,21 @@ function XO(str) {
   return !result ? true : false;
 }
 ```
+
+## Work experience
+* __Trainee, Educational Center for Programming and High Tech (IT-Academy)__
+    * _Project role:_ Frontend JavaScript Developer.
+    * _Project description:_  adaptive web application, the game "Space Adventure".
+    * _Used tools:_ App has been developed using HTML, CSS, JavaScript. Application code has been created with MVC architectural design pattern, OOP and using Firebase database to store game results. In present time, I keep improving and add new features to the game.
+    * _Link:_ [GitHub Pages](https://pavel-kv.github.io/spaceadventure/)
+
+* __Trainee, Educational Center for Programming and High Tech (IT-Academy)__
+    * _Project role:_ Frontend Web Developer.
+    * _Project description:_  adaptive web site.
+    * _Used tools:_ web site has been developed using HTML, CSS, BEM methodology, JavaScript.
+    * _Link:_ [GitHub Pages](https://pavel-kv.github.io/mariavilla/)
+
+
 ## Education
 * __Educational Center for Programming and High Tech (IT-Academy)__
     * _Course:_ Web application development with JavaScript
